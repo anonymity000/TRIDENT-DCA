@@ -24,7 +24,11 @@ python -m src.trident_train --cnfg ./configs/mini-5,1/train_conf.json
 ```
 python -m src.trident_test --cnfg PATH_TO_CONFIG.JSON
 ```
-example:
+Example:
 ```
 python -m src.trident_test --cnfg ./configs/mini-5,1/test_conf.json
+```
+An example for cross-domain testing:
+```
+python -m src.trident_test --cnfg ./configs/mini-5,1/cub_test.json
 ```
