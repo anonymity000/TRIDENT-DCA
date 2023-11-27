@@ -32,3 +32,5 @@ An example for cross-domain testing:
 ```
 python -m src.trident_test --cnfg ./configs/mini-5,1/cub_test.json
 ```
+Cross from Tiered ImageNet to other datasets:
+modify **./src/zoo/trident_utils.py** , set args.dataset as'tiered'
