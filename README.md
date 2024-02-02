@@ -1,5 +1,5 @@
 # TRIDENT-CrosA
-This is an implementation of CrosA on the TRIDENT(baseline network)
+This is an implementation of DCA on the TRIDENT(baseline network)
 
 # Data
 1. Create a directory: **./dataset**
