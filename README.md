@@ -1,4 +1,4 @@
-# TRIDENT-CrosA
+# TRIDENT-DCA
 This is an implementation of DCA on the TRIDENT(baseline network)
 
 # Data
